@@ -1,6 +1,6 @@
 {
   "name": "mcp-reader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MCP server for @vakra-dev/reader (scrape/crawl websites) with token-saving artifact truncation.",
   "license": "GPL-3.0-only",
   "type": "module",
