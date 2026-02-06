@@ -1,0 +1,9 @@
+{
+  "release-type": "node",
+  "packages": {
+    ".": {
+      "package-name": "mcp-reader",
+      "changelog-path": "CHANGELOG.md"
+    }
+  }
+}
